@@ -5,6 +5,7 @@
 import os, json, asyncio
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
+
 from crawl4ai import (
     AsyncWebCrawler,
     BrowserConfig,
