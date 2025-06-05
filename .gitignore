@@ -61,6 +61,7 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+my_chrome_profile/
 
 # Sphinx documentation
 docs/_build/
